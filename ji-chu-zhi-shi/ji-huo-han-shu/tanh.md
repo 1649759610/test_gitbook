@@ -1,6 +1,6 @@
 # tanh
 
-```
+```text
 {% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
 
 {% api-method-summary %}
@@ -43,10 +43,11 @@ Cake successfully retrieved.
 {% endapi-method-response-example-description %}
 ```
 
-```
+```text
 {    "name": "Cake's name",    "recipe": "Cake's recipe name",    "cake": "Binary cake"}
 ```
-```
+
+```text
 {% endapi-method-response-example %}
 
 {% api-method-response-example httpCode=404 %}
@@ -55,14 +56,14 @@ Could not find a cake matching this query.
 {% endapi-method-response-example-description %}
 ```
 
-```
+```text
 {    "message": "Ain't no cake like that."}
 ```
-```
+
+```text
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
 ```
-
 
