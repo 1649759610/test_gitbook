@@ -1,22 +1,21 @@
-# Table of contents
 
-* [loss](README.md)
-* [Typora](typora.md)
+## Ji Chu Zhi Shi
 
-## nlp
+- [Ji Huo Han Shu](ji-chu-zhi-shi/ji-huo-han-shu/README.md)
 
-* [sentiment analysis](nlp/sentiment-analysis/README.md)
-  * [tt](nlp/sentiment-analysis/tt/README.md)
-    * [ttt](nlp/sentiment-analysis/tt/ttt.md)
-* [test\_gitbook](nlp/test_gitbook.md)
+    - [Relu](ji-chu-zhi-shi/ji-huo-han-shu/relu.md)
+    - [Sigmoid](ji-chu-zhi-shi/ji-huo-han-shu/sigmoid.md)
+    - [Tanh](ji-chu-zhi-shi/ji-huo-han-shu/tanh.md)
+- [Sun Shi Han Shu](ji-chu-zhi-shi/sun-shi-han-shu/README.md)
 
-## 基础知识
+    - [Cross Entropy](ji-chu-zhi-shi/sun-shi-han-shu/cross_entropy.md)
+    - [Mse](ji-chu-zhi-shi/sun-shi-han-shu/mse.md)
 
-* [激活函数](ji-chu-zhi-shi/ji-huo-han-shu/README.md)
-  * [sigmoid](ji-chu-zhi-shi/ji-huo-han-shu/sigmoid.md)
-  * [tanh](ji-chu-zhi-shi/ji-huo-han-shu/tanh.md)
-  * [RELU](ji-chu-zhi-shi/ji-huo-han-shu/relu.md)
-* [损失函数](ji-chu-zhi-shi/sun-shi-han-shu/README.md)
-  * [cross\_entropy](ji-chu-zhi-shi/sun-shi-han-shu/cross_entropy.md)
-  * [mse](ji-chu-zhi-shi/sun-shi-han-shu/mse.md)
+## Nlp
 
+- [Sentiment Analysis](nlp/sentiment-analysis/README.md)
+
+    - [Tt](nlp/sentiment-analysis/tt/README.md)
+
+        - [Ttt](nlp/sentiment-analysis/tt/ttt.md)
+- [Test Gitbook](nlp/test_gitbook.md)
