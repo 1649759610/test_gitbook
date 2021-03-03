@@ -1,6 +1,7 @@
 # Table of contents
 
 * [loss](README.md)
+* [Typora](Typora.md)
 
 ## nlp
 
