@@ -1,4 +1,4 @@
-# cross\_entropy
+# Cross Entropy
 
 老师解放啦
 

@@ -9,3 +9,4 @@ sum_1^{2}
 $$
 
 loss function
+
