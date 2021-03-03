@@ -1,6 +1,7 @@
 # SUMMAEY
 
 - [introduction](./README.md)
+- [Typora](typora.md)
 
 ## Ji Chu Zhi Shi
 
