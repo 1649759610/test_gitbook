@@ -66,9 +66,9 @@ if a==b $$sum_1^{d}$$
 www.baidu.com
 {% endhint %}
 
-{% file src="../../.gitbook/assets/image \(2\).png" caption="jo njkl " %}
+{% file src="../../.gitbook/assets/image \(2\) \(2\).png" caption="jo njkl " %}
 
-![](../../.gitbook/assets/image.png)
+![](../../.gitbook/assets/image%20%282%29.png)
 
 
 

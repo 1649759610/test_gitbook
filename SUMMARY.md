@@ -7,7 +7,7 @@
 * [sentiment analysis](nlp/sentiment-analysis/README.md)
   * [tt](nlp/sentiment-analysis/tt/README.md)
     * [ttt](nlp/sentiment-analysis/tt/ttt.md)
-* [test_gitbook](nlp/test_gitbook.txt)
+* [test\_gitbook](nlp/test_gitbook.md)
 
 ## 基础知识
 
