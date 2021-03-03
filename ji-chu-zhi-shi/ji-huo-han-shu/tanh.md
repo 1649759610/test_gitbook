@@ -1,6 +1,8 @@
 # tanh
 
+```
 {% api-method method="get" host="https://api.cakes.com" path="/v1/cakes/:id" %}
+
 {% api-method-summary %}
 Get Cakes
 {% endapi-method-summary %}
@@ -39,9 +41,11 @@ Whether the cake should be gluten-free or not.
 {% api-method-response-example-description %}
 Cake successfully retrieved.
 {% endapi-method-response-example-description %}
+```
 
 ```
 {    "name": "Cake's name",    "recipe": "Cake's recipe name",    "cake": "Binary cake"}
+```
 ```
 {% endapi-method-response-example %}
 
@@ -49,14 +53,16 @@ Cake successfully retrieved.
 {% api-method-response-example-description %}
 Could not find a cake matching this query.
 {% endapi-method-response-example-description %}
+```
 
 ```
 {    "message": "Ain't no cake like that."}
+```
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
+```
 
 
