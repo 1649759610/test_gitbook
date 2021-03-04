@@ -1,6 +1,5 @@
 # Your Book Title
 
-* [introduction](README.md)
 - Ji Chu Zhi Shi
   - [Ji Huo Han Shu](book/ji-chu-zhi-shi/ji-huo-han-shu/README.md)
     * [Relu](book/ji-chu-zhi-shi/ji-huo-han-shu/relu.md)
