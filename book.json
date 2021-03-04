@@ -3,6 +3,6 @@
         "theme-default": {
             "showLevel": true
         },
-        "index": "book/README.md"
+        "index": "book/README.md",
         "plugins": ["summary", "toggle-chapters", "theme-comscore"]
     }
